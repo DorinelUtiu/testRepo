@@ -4,6 +4,8 @@ flow:
   inputs:
     - flow_input_0
     - flow_input_1
+    - flow_input_2
+    - flow_input_3
   results:
     - FAILURE
     - SUCCESS
