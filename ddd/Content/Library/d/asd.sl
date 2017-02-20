@@ -1,6 +1,9 @@
 namespace: d
 flow:
   name: asd
+  inputs:
+    - flow_input_0
+    - flow_input_1
   results:
     - FAILURE
     - SUCCESS
@@ -11,6 +14,9 @@ extensions:
         9ca0f8de-c631-837a-32cd-92a5fbe288b2:
           x: 171
           y: 94
+        1ef0d9a3-5998-96ad-883b-6a59b18bd3b5:
+          x: 466
+          y: 104
       SUCCESS:
         28df657e-a05b-0576-f4dd-1f35459aecb9:
           x: 305
