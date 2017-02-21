@@ -21,8 +21,8 @@ extensions:
           y: 182
       SUCCESS:
         28df657e-a05b-0576-f4dd-1f35459aecb9:
-          x: 305
-          y: 245
+          x: 385
+          y: 352
         cdb33c02-e63c-2615-87ad-8e7251a78a7b:
           x: 74
           y: 338
