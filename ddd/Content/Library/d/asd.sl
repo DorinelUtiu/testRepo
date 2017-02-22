@@ -14,8 +14,8 @@ extensions:
     results:
       FAILURE:
         9ca0f8de-c631-837a-32cd-92a5fbe288b2:
-          x: 245
-          y: 244
+          x: 97
+          y: 138
         1ef0d9a3-5998-96ad-883b-6a59b18bd3b5:
           x: 568
           y: 182
